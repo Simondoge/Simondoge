@@ -1,5 +1,7 @@
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&random=false&width=460&lines=print+(%27%27%27Hello%2CI%27m+Simon!%27%27%27);Hello%2CI%27m+Simon!)
+ 
 **我是Simon，一个准备~~搞破坏的小学牲~~（笑**
+**~~你好啊，傻笨笨和傻陈陈😂~~**
 ![Snake](https://github.com/Simondoge/Simondoge/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -17,11 +19,12 @@
 ![C++ Badge](https://img.shields.io/badge/-C++-512BD4?style=flat-square&logo=cplusplus&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-170BA4?style=flat-square&logo=php&logoColor=white)
 
+---
 # life is short,don't do anything!
 
 #### 人生苦短，啥也别干
 
 又是啥也没干的一天呢~（笑）🤣
-
+---
 
 ![脑子缓冲中](https://github.com/Simondoge/Simondoge/blob/main/%E7%85%A7%E6%98%8E%E5%95%86%E5%BA%97.gif?raw=true)
