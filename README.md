@@ -1,7 +1,6 @@
  ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&random=false&width=460&lines=print+(%27%27%27Hello%2CI%27m+Simon!%27%27%27);Hello%2CI%27m+Simon!)
  
-**我是Simon，一个准备~~搞破坏的小学牲~~（笑**
-**~~你好啊，傻笨笨和傻陈陈😂~~**
+**我是Simon，一个准备~~搞破坏的衰哥~~（笑**
 ![Snake](https://github.com/Simondoge/Simondoge/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
